@@ -44,12 +44,11 @@
 <h2 align="center"> 📖 Cursos e Bootcamps </h2>
 
 <div align="center">
-  <ul style="display: inline-block; text-align: left;">
-    <li>Santander Bootcamp 2025 - Ciência de Dados com Python</li>
-    <li>Santander Bootcamp 2025 - Excel com Inteligência Artificial</li>
-    <li>Inglês e Espanhol autodidata</li>
-  </ul>
+  <p>Santander Bootcamp 2025 – Ciência de Dados com Python</p>
+  <p>Santander Bootcamp 2025 – Excel com Inteligência Artificial</p>
+  <p>Inglês e Espanhol autodidata</p>
 </div>
+
 
 <h2 align="center"> 📱 Redes sociais</h2>
 
