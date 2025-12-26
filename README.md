@@ -35,7 +35,7 @@
 <div align="center">
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=microsoft-power-bi&logoColor=000000)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?logo=microsoft-power-bi&logoColor=000000&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
 </div>
