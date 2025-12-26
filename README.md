@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleygutierris/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/Wesley-Gutierris)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:wesley.gutierris@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:wesley.gutierris@gmail.com)
 
 </div>
 <h3 align=center>Sobre mim</h3> 
@@ -17,7 +17,7 @@
 </p>
 
 <p>
-🔹Atualmente estou trabalhando como Analista de controladoria em uma agência de viagens coorporativas.
+🔹Atualmente estou trabalhando como Analista de controladoria em uma agência de viagens corporativas.
 </p>
 
 <p>
@@ -56,7 +56,4 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley.gutierris/)
 </div>
-<br>
-<br>
-<br>
-<br>
+
