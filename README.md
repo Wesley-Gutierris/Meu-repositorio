@@ -35,7 +35,7 @@
 <div align="center">
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-D83B01?logo=microsoft-power-BI&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=microsoft-power-bi&logoColor=000000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
 </div>
@@ -44,8 +44,8 @@
 <h2 align="center"> 📖 Cursos e Bootcamps </h2>
 
 <div align="center">
-• Santander Bootcamp 2025 - Ciência de Dados com Python
-• Santander Bootcamp 2025 - Excel com Inteligência Artificial
+• Santander Bootcamp 2025 - Ciência de Dados com Python<br>
+• Santander Bootcamp 2025 - Excel com Inteligência Artificial<br>
 • Inglês e Espanhol autodidata
 </div>
 
