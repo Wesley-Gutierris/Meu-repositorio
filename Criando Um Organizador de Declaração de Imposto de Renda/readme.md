@@ -1,1 +1,3 @@
-.
+Este projeto me ajudou a clarear algumas ideias. Eu sempre tive vontade de aprender a criar aqueles dashboards bonitos de se ver mas sempre paro na barreira da criatividade. 
+O instrutor mencionou a linguagem VBA que é algo que eu sempre tive vontade de aprender tambem, principalmente nessa parte de criar as proprias fórmulas. A um tempo atrás eu criei com a ajuda de IA uma para filtrar valores em negrito, mas gostaria de aprender eu mesmo outras mais úteis.
+Assim como no outro projeto, não entendi muito bem se deveria criar uma outra planilha usando os conhecimentos que o intrutor ensinou ou se deveria apenas relatá-los por aqui igual estou fazendo.
