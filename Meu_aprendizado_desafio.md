@@ -1,4 +1,0 @@
-As aulas sobre o desafio de criação de uma planilha de controle de investimentos foram sensacionais. 
-Uma boa parte do que foi ensinado eu ja tinha conhecimento, mas ainda assim prestei atenção em busca de novos insights.
-Algo que com certeza vou tentar utilizar mais são as chaves compostas dessa forma mais complexa que o professor fez, pois até hoje utilizei apenas para localizar dados simples.
-Também sou uma pessoa extremamente viciada em atalhos no exel, anotei aqueles que achei mais relevantes durante as aulas.
