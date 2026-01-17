@@ -79,3 +79,18 @@ Montei 4 cards que representassem KPI's importantes:
  Logo abaixo deles coloquei dois gráficos fixos, que representam o período como um todo. Um deles Contém os "best sellers", onde foquei apenas no top 5 e outro focado nas edições, fazendo um comparativo das duas ao mesmo tempo com um gráfico de linhas.
 
  Por fim, adicionei um botão de "Ir para", que direciona o usuário para o dash da PS plus.
+
+ Mais tarde, fiz todo o dashboard da base PS PLUS. Usei três KPI's dessa vez:
+
+ *Total de vendas
+ *Receitas de novos usuários
+ *Receitas de renovações
+
+ Posicionei a esquerda um gráfico das receitas por planos e mais abaixo um gráfico fixo das receitas por plano e por mês.
+
+ Fiz alguns ajustes finos na planilha, depois adicionei os hiperlinks e por fim consultei uma IA para me ajudar com dois macros:
+
+ 1 - Um que fizesse a planilha salvar e fechar assim que clicasse no botão "desligar" na tela inicial
+ 2 - Um que fizesse com que a planilha abrisse automaticamente na tela inicial, independente da aba que o usuário tenha fechado ela anteriormente, além de abrir a planilha em tela cheia.
+
+ Dessa forma consegui dar um toque final profissional na planilha.
