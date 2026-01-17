@@ -60,3 +60,22 @@ Por fim, montei algumas tabelas dinâmicas necessárias para o esqueleto do dash
 
 _______________________________________________________________________________________________________________________________________________________________
 
+Atualizações - dia 17/01/2026
+
+Hoje fiz o dashboard das vendas da blackfriday.
+
+Eu tinha uma ideia inicial na mente, mas ao tentar executá-la não ficou algo apresentavel. Mudei o rumo e tentei ser o menos redundante possível nas informações para não causar poluição visual. USei algumas tabelas dinâmicas fixas e outras váriaveis (conforme a segmentação) para os gráficos mudarem dinâmicamente.
+
+Montei 4 cards que representassem KPI's importantes:
+ *Total de vendas
+ *Total de unidades vendidas
+ *Ticket médio
+ *% de crescimento de vendas de um dia para o outro.
+
+ Este último foi necessário usar uma função "Se" bem grande para conseguir representar o valor corretamente no card, mas no fim deu tudo certo.
+
+ Abaixo dos cards coloquei mais dois gráficos que os dados mudam conforme o dia e ediçao selecionada, um que representa o total de vendas por edição e outro que representa o top 10 diário dos jogos.
+
+ Logo abaixo deles coloquei dois gráficos fixos, que representam o período como um todo. Um deles Contém os "best sellers", onde foquei apenas no top 5 e outro focado nas edições, fazendo um comparativo das duas ao mesmo tempo com um gráfico de linhas.
+
+ Por fim, adicionei um botão de "Ir para", que direciona o usuário para o dash da PS plus.
