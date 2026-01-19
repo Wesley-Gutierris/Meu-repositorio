@@ -1,2 +1,9 @@
-As aulas sobre o desafio de criação de uma planilha de controle de investimentos foram sensacionais. Uma boa parte do que foi ensinado eu ja tinha conhecimento, mas ainda assim prestei atenção em busca de novos insights. Algo que com certeza vou tentar utilizar mais são as chaves compostas dessa forma mais complexa que o professor fez, pois até hoje utilizei apenas para localizar dados simples. Também sou uma pessoa extremamente viciada em atalhos no exel, anotei aqueles que achei mais relevantes durante as aulas.
-Só não entendi muito bem se deveria criar uma outra planilha usando os conhecimentos que o intrutor ensinou ou se deveria apenas relatá-los por aqui igual estou fazendo.
+Apesar de ja ter trabalhado no banco Itaú eu confesso que não sou um exímio conhecedor de investimentos, pois minha função era apenas de suporte ao cliente em sua conta corrente, nada que exigisse falar sobre esse assunto.
+
+Sou bem conservador em relação a investimentos, por isso montei uma planilha simples que refletisse o que conheço (renda fixa, tipo CDB).
+
+Fiz um formulário inicial e abaixo dele uma tabela que refletisse os resultados. apliquei validações de dados e funções "se" necessárias para manter a planilha limpa e funcional.
+
+Protegi as celulas necessárias para evitar edições que quebrassem a planilha e finalizei o projeto.
+
+
